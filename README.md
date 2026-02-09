@@ -5,7 +5,8 @@
 Hey! This is my submission for the Nexus Club frontend task. I wanted to build something that wasn't just a boring form, so I went for a futuristic, "cyber" vibe with a lot of interactive elements.
 
 ## 🔗 Live Link
-Check out the live site here:
+Check out the live site here:   https://timelordmuthu.github.io/club-portal/
+
 
 ---
 
